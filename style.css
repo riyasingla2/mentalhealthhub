@@ -1,0 +1,481 @@
+
+div 
+{
+	width: 800px;
+  background-color: #DCBAF3;
+ padding: 100px;
+}
+
+body{
+	background-color: #0E1011;
+}
+
+hr {
+	position: relative;
+border-top: 0.05px solid;
+}
+
+h1 
+{
+	color: white;
+	font-family: ui-monospace;
+	font-size: 32px;
+	letter-spacing: 0.2px;
+	line-height: 35px;
+	text-align: center;
+
+
+}
+
+#hi 
+{
+	color: #3384E1;
+	font-size: 20px;
+font-weight: bolder;}
+
+
+#dfir
+{
+	width: 630px;
+font-size: 15px;
+ background:  rgba(39, 68, 114 , 0.3);
+	padding: 25px;
+	
+
+	font-family: monospace;
+	text-align: left;
+
+color: white;
+
+}
+
+#quo 
+{
+border-left: solid ;
+width: 150px;
+padding: 10px;
+background-color: #0E1011;
+font-style: italic;
+color: white;
+font-family: "Courier New", monospace;
+text-align: left;
+line-height: 20px;
+top: -200px;
+
+}
+
+#drem{
+
+width: 630px;
+	padding: 27px;
+
+background-color: #0E1011;
+ text-align: left;
+
+}
+
+
+#text 
+{
+font-weight: bold;
+ color: white;
+ font-family: ui-monospace;
+}
+
+#te {
+
+	font-family: ui-monospace;
+	text-align: left;
+	line-height: 25px;
+	font-size: 15px;
+	text-decoration: none;
+	color: pink;
+}
+
+
+#dweb
+{
+	width: 630px;
+	padding: 25px;
+
+background-color: #0E1011;
+
+}
+
+#info 
+{font-family: ui-monospace;
+	color: white;
+	text-align: left;
+	font-weight: bold;
+
+
+}
+
+
+#pa{
+
+color: white;
+font-family: "Courier New", monospace;
+text-align: left;
+}
+
+#dpod 
+{
+width: 630px;
+padding: 25px;
+
+background-color: #0E1011;
+font-family: ui-monospace;
+
+}
+
+#cas {
+	color: white;
+	font-family: ui-monospace;
+	text-align: left;
+
+
+}
+
+#lii
+{
+	color: #CF0D74;
+
+	 text-align: left;
+	 line-height: 25px;
+	font-size: 15px;
+	
+
+}
+
+#just {
+
+	text-decoration: none;
+}
+
+#dsongs {
+	width: 630px;
+padding: 25px;
+text-align: left;
+color: #4C7CF1;
+
+background-color: #0E1011; 
+font-family: ui-monospace;
+
+}
+
+#so {
+
+color: white;
+
+}
+
+#click {
+	color: #20BF9B;
+}
+
+#linkk {
+	color:  #CCADFA;
+
+}
+
+#dbooks {
+width: 630px;
+padding: 25px;
+
+background-color: #0E1011; 
+
+font-family: ui-monospace;
+
+
+}
+
+#boo 
+
+{
+	color: white;
+	font-family: ui-monospace;
+text-align: left;
+font-weight: bold;
+
+}
+#ob {
+
+	
+	font-family: ui-monospace;
+	text-align: left;
+	line-height: 25px;
+	font-size: 15px;
+	text-decoration: none;
+	color: #38BE57 ;
+
+}
+
+#dques 
+{
+	width: 630px;
+padding: 25px;
+
+background-color: #0E1011; 
+
+font-family: ui-monospace;
+}
+
+#qu {
+
+color: white;
+font-family: ui-monospace;
+text-align: left;
+font-weight: bold;
+}
+
+
+#uii 
+{
+
+	color:  #9270E5 ;
+	text-align: left;
+	line-height: 25px;
+	font-size: 15px;
+
+}
+
+#dcon 
+{width: 610px;
+font-size: 15px;
+ background:  rgba(171, 148, 34 , 0.5);
+padding: 16px;
+line-height: 22px;
+font-family: "Courier New", monospace;
+text-align: left;
+color: white;
+}
+
+
+#dvol 
+{width: 630px;
+
+padding: 25px;
+
+background-color: #0E1011; 
+
+font-family: ui-monospace;
+text-align: left;
+
+}
+
+#dhot
+{width: 630px;
+
+padding: 25px;
+
+background-color: #0E1011; 
+color:  #ADF9FA;
+font-family: ui-monospace;
+text-align: left;
+
+}
+
+#hotl
+{
+
+color: white;
+
+}
+
+#ni {
+
+color: #CEE949;
+
+}
+h4
+{
+	color:  white ;
+	font-weight: bold;
+}
+
+
+p {
+
+	color: pink ;
+	text-align: left;
+	line-height: 25px;
+	font-size: 15px;
+}
+
+#par {
+
+	color: white ;
+	text-align: left;
+	line-height: 25px;
+	font-size: 15px;
+
+}
+
+#link 
+{
+	color:  white ;
+	font-weight: bold;
+}
+
+#box{
+
+border: 1px solid white;
+	display: none;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}
+
+#dab {
+
+width: 630px;
+
+padding: 25px;
+
+
+background-color: #0E1011; 
+font-family: ui-monospace;
+text-align: left;
+
+
+}
+
+#me{
+
+	line-height: 25px;
+	font-size: 15px;
+font:  ui-monospace;
+	color:  #9270E5 ;
+	text-align: left;
+	
+
+
+
+}
+
+#aboutme {
+
+	color: white;
+}
+
+#heyy{
+
+	text-decoration: none;
+	color: #E73737;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#drop {
+
+width: 470px;
+padding: 20px;
+
+background-color: #0E1011; 
+font-family: ui-monospace;
+text-align: left;
+
+}
+
+
+mark {
+
+color: #1CA915;
+background: rgba(79, 93, 78,0.4 );
+}
+
+#rem {
+ 
+
+width: 150px;
+padding: 20px;
+
+background-color: #0E1011; 
+font-family: ui-monospace;
+text-align: left;
+
+}
+#pin {
+
+	color:  pink;
+	font-weight: bold;
+}
+
+
+#li1 {
+
+color: #176FBD;
+
+
+	 text-align: left;
+
+	font-size: 15px;
+
+}
+ 
+a {
+
+
+	 text-align: left;
+	line-height: 15px;
+	font-size: 13px;
+	text-decoration: none;
+	color:  #81BD17;
+
+
+}
+
+#drop1 {
+width: 470px;
+padding: 20px;
+
+background-color: #0E1011; 
+font-family: ui-monospace;
+text-align: left;
+
+}
+
+
+#li2 {
+
+color: #176FBD;
+
+
+	 text-align: left;
+	 
+	font-size: 15px;
+
+}
+
+
+#li4 {
+
+color: #176FBD;
+
+
+	 text-align: left;
+
+	font-size: 15px;
+
+}
+
+
+#li3 {
+
+color: #176FBD;
+	 text-align: left;
+	font-size: 15px;
+
+}
+
+#li5 {
+
+color: #176FBD;
+
+
+	 text-align: left;
+	
+	font-size: 15px;
+
+}
